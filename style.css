@@ -1,0 +1,17 @@
+/* back ground blue
+ h1 center
+ move decoretion
+horizantal list 
+emage smaller
+change fonts color
+*/
+header{background-color: rgb(125, 231, 226);}
+h1{text-align:center ;}
+ul{list-style: none;}
+img{width: 40%;
+margin-left:60px;
+}
+body{background-color: #6379DF;}
+li{display: inline;}
+#colorpink{color: pink}
+.colorpurple{color: purple;}
